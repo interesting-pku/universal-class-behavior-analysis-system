@@ -1,0 +1,2 @@
+# universal-class-behavior-analysis-system
+universal class behavior analysis system(UCBAS) is a windows desktop application,a productivity tool for researchers to conduct quantitative analysis and observations to classroom teaching behaviors in videos, with decent compatibility to the popular coding system (e.g. FIAS, ITIAS,iFIAS). Project management and simple statistic tools are also intergrated.
