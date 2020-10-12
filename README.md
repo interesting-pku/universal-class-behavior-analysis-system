@@ -8,3 +8,8 @@ https://github.com/interesting-pku/universal-class-behavior-analysis-system/rele
 https://disk.pku.edu.cn:443/link/9235CF1F84A5692834EECB5BB97B67E2
 
 目前已知的问题是对不同分辨率屏幕的适应问题，如果在使用中有任何问题或建议，欢迎在issue中提出！由于团队的能力和精力有限，可能无法做到一一回复，敬请谅解。
+
+##2020.10.12
+最新release中双语版本已经发布，支持英语语言
+https://github.com/interesting-pku/universal-class-behavior-analysis-system/releases/tag/1.1
+
