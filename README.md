@@ -13,3 +13,6 @@ https://disk.pku.edu.cn:443/link/9235CF1F84A5692834EECB5BB97B67E2
 最新release中双语版本已经发布，支持英语语言
 https://github.com/interesting-pku/universal-class-behavior-analysis-system/releases/tag/1.1
 
+##2021.3.25
+解决了部分win10以下版本系统中英语标识符无效的问题
+https://github.com/interesting-pku/universal-class-behavior-analysis-system/releases/tag/1.2
